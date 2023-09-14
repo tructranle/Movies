@@ -1,0 +1,26 @@
+{
+    "name": "Akira",
+    "year": 1988,
+    "runtime": 124,
+    "categories": [
+        "animation",
+        "scifi",
+        "drama"
+    ],
+    "release-date": "1988-07-16",
+    "director": "Katsuhiro \u00c3\u201dtomo",
+    "writer": [
+        "Katsuhiro \u00c3\u201dtomo",
+        "Iz\u00c3\u00b4 Hashimoto",
+        "Katsuhiro \u00c3\u201dtomo"
+    ],
+    "actors": [
+        "Mitsuo Iwata",
+        "Nozomu Sasaki",
+        "Mami Koyama",
+        "Tessh\u00c3\u00b4 Genda",
+        "Hiroshi \u00c3\u201dtake"
+    ],
+    "storyline": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by two teenagers and a group of psychics.",
+    "id": 448
+}
